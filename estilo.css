@@ -1,0 +1,25 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan+2&display=swap');
+@font-face{
+    font-family: 'FonteTitulo', cursive;
+    src: url("../_fonts/BalooChettan2-Regular.ttf");
+}
+header#cabecalho h1{
+    font-family: 'FonteTitulo', cursive;
+    font-size: 30pt;
+    color: darkgreen;
+    text-align: justify;
+    text-indent: 30px;
+}
+header#cabecalho h2{
+    font-family: 'FonteTitulo', cursive;
+    font-size: 20pt;
+    color: darkslategrey;
+    text-align: justify;
+    text-indent: 35px;
+}
+figure.foto-site img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
