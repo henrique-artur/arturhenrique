@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Chettan+2&display=swap');
 @font-face{
     font-family: 'FonteTitulo', cursive;
-    src: url("fontes/BalooChettan2-Regular.ttf");
+    src: url("https://fonts.googleapis.com/css?family=Baloo+Chettan+2&display=swap");
  }
 header#cabecalho h1{
     font-family: 'FonteTitulo', cursive;
