@@ -1,19 +1,19 @@
 @charset "UTF-8";
 @font-face{
     font-family: 'titulo';
-    src: url('../_fonts/Bungee-Regular.ttf');
+    src: url('../fonts/Bungee-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: 'artigo';
-    src: url('../_fonts/OpenSans-Regular.ttf');
+    src: url('../fonts/OpenSans-Regular.ttf');
     font-weight: normal;
     font-size: normal;
 }
 @font-face{
         font-family: 'paragrafo';
-        src: url('../_fonts/Exo2-Italic-VariableFont_wght.ttf');
+        src: url('../fonts/Exo2-Italic-VariableFont_wght.ttf');
         font-weight: normal;
         font-size: normal;
 }
