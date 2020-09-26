@@ -11,6 +11,11 @@
     text-align: justify;
     color: black;
 }
+figcaption{
+    text-align: justify;
+    font-family: 'paragrafo';
+}
+
 figure{
     display: flex;
     flex-direction: column;
