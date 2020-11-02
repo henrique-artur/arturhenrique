@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/*input*/
+select{
+    padding: 3px;
+}
+input{
+padding: 3px;
+}
+input:hover{
+background-color: #7a7;
+}
+/*Tabela*/
+table{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+
+table tr td{
+    border: 1px solid black;
+    width: 25%;
+    font-family: 'paragrafo';
+}
+table tr{
+    background-color: #cef;
+}
+table tr.Info{
+    background-color: #2BE07A;
+}
+/*aside*/
+aside{
+    position: absolute;
+    max-width: 400px;
+    min-width: 400px;
+    right: 200px;
+    top: 115px;
+}
+span{
+    font-size: 22px;
+}
+select#conversor{
+    width: 45%;
+}
+input#tVal{
+    margin-top: 8px;
+    width: 37%;
+    margin-right:3px;
+}
